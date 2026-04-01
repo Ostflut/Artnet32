@@ -138,6 +138,4 @@ In Arduino IDE under `Tools → Partition Scheme`:
 
 ---
 
-## License
-
-MIT
+o
