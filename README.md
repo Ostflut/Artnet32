@@ -1,4 +1,3 @@
-# Artnet32
 # ESP32 ArtNet DMX Node
 
 A two-universe ArtNet to DMX512 converter running on an ESP32.
